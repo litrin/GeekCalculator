@@ -1,0 +1,7 @@
+{ 
+	"description": "Sublime Text 2 Plugin which may calculate arithmetic operations for each lines from selected text and append the results.", 
+	"url": "http://www.litrin.net", 
+	"platforms": ["*"], 
+	"version": "2015.02.12", 
+	"dependencies": []
+}
